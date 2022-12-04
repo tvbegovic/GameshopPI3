@@ -1,9 +1,0 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Gameshop_Netfx_Core.Properties" GeneratedClassName="Settings">
-  <Profiles />
-  <Settings>
-    <Setting Name="connString" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">Data Source=palma.vernnet.hr,3233;Initial Catalog=gameshop_2022;User ID=appuser;password=dbpassword</Value>
-    </Setting>
-  </Settings>
-</SettingsFile>
