@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gameshop_Netfx", "Gameshop_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gameshop_Netfx_Dapper", "Gameshop_Netfx Dapper\Gameshop_Netfx_Dapper.csproj", "{9A49DE4E-6317-4DA5-908E-4CAF6714BDB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gameshop_Netfx_Core", "Gameshop_Netfx_Core\Gameshop_Netfx_Core.csproj", "{18147B94-49B7-4E74-9533-DBF93CD0EE7F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,10 +39,6 @@ Global
 		{9A49DE4E-6317-4DA5-908E-4CAF6714BDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A49DE4E-6317-4DA5-908E-4CAF6714BDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A49DE4E-6317-4DA5-908E-4CAF6714BDB5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{18147B94-49B7-4E74-9533-DBF93CD0EE7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{18147B94-49B7-4E74-9533-DBF93CD0EE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{18147B94-49B7-4E74-9533-DBF93CD0EE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{18147B94-49B7-4E74-9533-DBF93CD0EE7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
