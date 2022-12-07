@@ -68,7 +68,7 @@ namespace Gameshop_Netfx_Dapper
             if (yesno == DialogResult.Yes)
             {
                 ObrisiIgru(Convert.ToInt32(dgvIgre.CurrentRow.Cells[0].Value));
-                igre.Remove((Game)dgvIgre.CurrentRow.DataBoundItem);
+                igre.RemoveAt(dgvIgre.CurrentRow.Index);
                 dgvIgre.DataSource = null;
                 dgvIgre.DataSource = igre;
             }
